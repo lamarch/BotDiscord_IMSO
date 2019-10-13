@@ -1,0 +1,54 @@
+
+
+
+
+
+------------------------------------
+dimanche 13 octobre 2019
+
+1 ==>> 13/10/2019 18:36:35 ==>> LOG > demarrage BOT...
+2 ==>> 13/10/2019 18:36:35 ==>> Log [Info] : Discord.Net v2.1.1 (API v6)
+3 ==>> 13/10/2019 18:36:36 ==>> LOG > BOT demarre !
+4 ==>> 13/10/2019 18:36:36 ==>> Log [Info] : Connecting
+5 ==>> 13/10/2019 18:36:39 ==>> Log [Info] : Connected
+6 ==>> 13/10/2019 18:36:40 ==>> LOG > Mise en route boucle...
+7 ==>> 13/10/2019 18:36:40 ==>> BOUCLE:log > Boucle n 1
+8 ==>> 13/10/2019 18:36:40 ==>> BOUCLE:log > Récupération de l'état du serveur...
+9 ==>> 13/10/2019 18:36:40 ==>> LOG > BOT pret !
+10 ==>> 13/10/2019 18:36:40 ==>> Log [Info] : Ready
+11 ==>> 13/10/2019 18:36:40 ==>> BOUCLE:log > Etat serveur :
+12 ==>> 13/10/2019 18:36:40 ==>> BOUCLE:log > Offline : 0 joueurs
+13 ==>> 13/10/2019 18:36:40 ==>> BOUCLE:log > Sommeil...(60000 ms)
+
+
+
+
+
+------------------------------------
+dimanche 13 octobre 2019
+
+1 ==>> 13/10/2019 18:36:45 ==>> LOG > demarrage BOT...
+2 ==>> 13/10/2019 18:36:45 ==>> Log [Info] : Discord.Net v2.1.1 (API v6)
+3 ==>> 13/10/2019 18:36:47 ==>> LOG > BOT demarre !
+4 ==>> 13/10/2019 18:36:47 ==>> Log [Info] : Connecting
+
+
+
+
+
+------------------------------------
+dimanche 13 octobre 2019
+
+1 ==>> 13/10/2019 18:36:52 ==>> LOG > demarrage BOT...
+2 ==>> 13/10/2019 18:36:52 ==>> Log [Info] : Discord.Net v2.1.1 (API v6)
+3 ==>> 13/10/2019 18:36:53 ==>> LOG > BOT demarre !
+4 ==>> 13/10/2019 18:36:53 ==>> Log [Info] : Connecting
+5 ==>> 13/10/2019 18:36:54 ==>> Log [Info] : Connected
+6 ==>> 13/10/2019 18:36:55 ==>> LOG > Mise en route boucle...
+7 ==>> 13/10/2019 18:36:55 ==>> BOUCLE:log > Boucle n 1
+8 ==>> 13/10/2019 18:36:55 ==>> BOUCLE:log > Récupération de l'état du serveur...
+9 ==>> 13/10/2019 18:36:55 ==>> LOG > BOT pret !
+10 ==>> 13/10/2019 18:36:55 ==>> Log [Info] : Ready
+11 ==>> 13/10/2019 18:36:55 ==>> BOUCLE:log > Etat serveur :
+12 ==>> 13/10/2019 18:36:55 ==>> BOUCLE:log > Offline : 0 joueurs
+13 ==>> 13/10/2019 18:36:56 ==>> BOUCLE:log > Sommeil...(60000 ms)

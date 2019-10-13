@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Net" Version="2.1.1" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PM-Utils">
+      <HintPath>..\..\PM-Utils\PM-Utils\bin\Release\PM-Utils.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
